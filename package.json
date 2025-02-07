@@ -12,5 +12,6 @@
   "description": "Simple math operations library with tests",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "packageManager": "pnpm@8.15.4"
 }
