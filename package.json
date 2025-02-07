@@ -1,0 +1,16 @@
+{
+  "name": "justmaths",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Simple math operations library with tests",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
